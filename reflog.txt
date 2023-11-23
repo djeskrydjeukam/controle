@@ -1,0 +1,21 @@
+$ git reflog
+94f2e8c (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: pull: Merge made by the 'ort' strategy.
+cafe7a2 HEAD@{1}: commit: repetoire
+d99e28f HEAD@{2}: checkout: moving from tobedeleted to main
+ea3c93a HEAD@{3}: commit: Ajout d'Azerty
+d99e28f HEAD@{4}: checkout: moving from main to tobedeleted
+d99e28f HEAD@{5}: reset: moving to HEAD^
+f6eff9b (météo) HEAD@{6}: reset: moving to HEAD^
+0a9e33d HEAD@{7}: cherry-pick: Create anglais.txt
+f6eff9b (météo) HEAD@{8}: checkout: moving from hobby to main
+41c1027 (hobby) HEAD@{9}: commit: README dans la branche hobby
+3256b9b HEAD@{10}: commit: Modification hobby
+f6eff9b (météo) HEAD@{11}: checkout: moving from main to hobby
+f6eff9b (météo) HEAD@{12}: merge météo: Fast-forward
+de8ce3c HEAD@{13}: checkout: moving from météo to main
+f6eff9b (météo) HEAD@{14}: commit: README dans la branche météo
+d99e28f HEAD@{15}: commit: Modification Meteo
+de8ce3c HEAD@{16}: checkout: moving from main to météo
+de8ce3c HEAD@{17}: commit: Helloworld
+0963c59 HEAD@{18}: commit: Creation du fichier README
+ecc77ce HEAD@{19}: clone: from https://github.com/djeskrydjeukam/controle.git
